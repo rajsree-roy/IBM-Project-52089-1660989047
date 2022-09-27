@@ -1,1 +1,19 @@
-jaya
+NAME : Jaya N(Team Leader)
+
+ROLLNO : 410619104008
+
+EMAIL : jayabhar91@gmail.com
+
+MOBILE NUMBER : 9150881217
+
+GENDER : FEMALE
+
+DATE OF BIRTH : 24-07-2002
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING 
