@@ -1,1 +1,19 @@
-ishrath batul`
+NAME : M .ISHRAT BATUL
+
+ROLLNO : 410619104007
+
+EMAIL :ishratbatul01@gmail.com
+
+MOBILE NUMBER : 9884365290
+
+GENDER : FEMALE
+
+DATE OF BIRTH : 30-09-2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
